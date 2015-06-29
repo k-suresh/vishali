@@ -1,0 +1,57 @@
+.logo{width:180px;}
+.logo img{width:100%;}
+.topright{width:800px;}
+.topright{width:800px;}
+.topnav ul li a{font-size:17px;}
+.welcome{width:auto; height:auto; margin:0; padding:0; float:right;}
+.welcome a{width:auto; height:auto; margin:0 0 0 10px; padding:5px 10px; float:right; background:#0079c0; color:#fff;}
+.topnav{margin-top:10px;}
+.topnav ul{width:auto;}
+
+.container{width:100%; margin-top:0px;}
+
+.beneficiaries #beneficiaries_length, .beneficiaries #beneficiaries_filter, 
+.donor #donor_length, .donor #donor_filter{display:none;}
+.adminform #example_wrapper table{margin:0 0 10px 0 !important;}
+.adminform #example_wrapper table tbody tr td{padding:5px 5px; border:solid 1px #ccc;}
+
+.benef-search{width:100%; height:auto; margin:0 0 30px 0; padding:0; float:left;}
+.benef-box{width:100%; height:auto; margin:0 0 30px 0; padding:10px; float:left; background:#f7f7f7; border:solid 1px #dcdcdc;}
+.benef-box .benef-img{width:150px; height:150px; margin:0 30px 0 0; padding:0; float:left; background:#dcdcdc; text-align:center; vertical-align:middle;}
+.benef-box .benef-details{width:400px; height:auto; margin:0 30px 0 0; padding:0; float:left;}
+.benef-box .benef-action{width:200px; height:auto; margin:0 30px 0 0; padding:0; float:right; text-align:center;}
+.benef-box .benef-action input[type="button"]{width:auto; height:auto; margin:0 auto 5px auto; padding:5px 10px; float:none; font-size:12px; border-radius:5px;}
+.benef-box .benef-details ul{width:100%; height:auto; margin:0 0 0 0; padding:0; float:left; list-style:none;}
+.benef-box .benef-details ul li{width:100%; height:auto; margin:0 0 5px 0; padding:0; float:left; list-style:none;}
+.benef-box .benef-details ul li label{width:100px; height:auto; margin:0 5px 0 0; padding:0; float:left;}
+
+.projects .add-projects td, .donor .add-donor td{padding:5px 5px;}
+#beneficiaries, #donor{border:solid 1px #ccc;}
+#beneficiaries thead tr th, #donor thead tr th{background:#f4812d; color:#fff;}
+#beneficiaries tbody tr td, #donor tbody tr td{padding:5px 5px;}
+
+.add-gallery-main{width:400px; height:auto; margin:0 auto; padding:0; float:none;}
+.add-gallery-main .buttons{width:100%; height:auto; margin:0 auto; padding:0; float:none;}
+.add-gallery{width:100%; height:auto; margin:0; padding:0; float:left;}
+.add-gallery ul{width:100%; height:auto; margin:0; padding:0; float:left; list-style:none;}
+.add-gallery ul li{width:100%; height:auto; margin:0 0 10px 0; padding:0; float:left; list-style:none;}
+.add-gallery ul li label{width:100px; height:auto; margin:0 10px 0 0; padding:0; float:left; text-align:right;}
+#description{width:100%;}
+.description_text .remove{width:100%; margin:0 0 0 0; padding:0; float:left; text-align:right; font-size:0px;}
+.description_text  .remove a{font-size:18px;}
+.description_text{width:100%; margin:20px 0 0 0; padding:0; float:left; border:#333333 solid 0px; width:100% !important;}
+.append_data{
+   white-space: pre-wrap;      /* CSS3 */   
+   white-space: -moz-pre-wrap; /* Firefox */    
+   white-space: -pre-wrap;     /* Opera <7 */   
+   white-space: -o-pre-wrap;   /* Opera 7 */    
+   word-wrap: break-word;      /* IE */
+}
+.add_more, .add_more:hover{background:#f4812d none repeat scroll 0 0; border:1px solid #f4812d; color:#fff; float:right; margin:0; padding:5px 10px; float:right;}
+
+
+/*Buttons*/
+.btn-active, .btn-edit, .btn-view{margin:0 5px 0 0; padding:3px 7px; border-radius:3px; font-size:12px;}
+.btn-active:hover, .btn-edit:hover, .btn-view:hover{color:#fff;}
+.btn-active{background:#12ab78; color:#fff;}
+.btn-edit, .btn-view{background:#559cd9; color:#fff;}
